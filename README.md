@@ -1,6 +1,19 @@
 # About Me:
-Computer Engineer student at Federal Technological University of Paraná (UTFPR)
+Hi there, I'm a Computer Engineering Student at UTFPR! I am a software developer driven by the challenge of building scalable, high-impact solutions. Currently pursuing my degree in **Computer Engineering at UTFPR**, I combine academic rigor with practical experience to bridge the gap between complex backend logic and engaging user interfaces.
 
+My goal is not just to write code, but to engineer innovative software that accelerates business growth and delivers real value to users.
+
+I specialize in **Full-Stack Web Development**, focusing on creating robust architectures and seamless integrations.
+
+*   **Backend Engineering:** Expertise in building RESTful APIs, handling complex business logic, and database integration using **Node.js** and **Spring Boot**.
+*   **Scalability:** I design systems meant to grow, ensuring performance and reliability under load.
+*   **Frontend Development:** Experience in crafting high-quality, responsive interfaces that drive user engagement.
+
+Technical skills build the product, but collaboration builds the future. I pride myself on:
+
+*   **Collaborative Spirit:** I believe the best solutions come from effective teamwork and open communication.
+*   **Problem Solving:** I am motivated by complex challenges and finding efficient, logical solutions.
+*   **Adaptability & Growth:** The tech world moves fast. I am dedicated to continuous learning and evolving both technically and personally to stay ahead of the curve.
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
